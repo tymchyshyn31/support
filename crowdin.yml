@@ -1,3 +1,3 @@
 files:
-  - source: /source/*
+  - source: /source/test.txt
     translation: translation/%two_letters_code%-test1.txt
