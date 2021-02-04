@@ -1,5 +1,7 @@
 files:
   - source: /source/Animals.xml
+    ignore:
+      - translation/%two_letters_code%/Animals.xml
     translation: /translation/%two_letters_code%/%original_file_name%
   - source: /source/1.json
     translation: /translation/%two_letters_code%/1t.json
