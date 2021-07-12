@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Crowdin TODO</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="category">Category</string>
+    <string name="history">History</string>
+    <string name="add_task">Add Task</string>
+    <string name="action_done">Done</string>
+    <string name="task_title">Task Title</string>
+    <string name="enter_task_title">Enter task title</string>
+    <string name="what_is_to_be_done">What is to be done?</string>
+    <string name="enter_your_task">Enter your task</string>
+    <string name="set_date_and_time">Set reminder date and time</string>
+    <string name="add_to_category">Add to category</string>
+    <string name="set_date">Set Date</string>
+    <string name="set_time">Set Time</string>
+    <string name="add_category">Add Category</string>
+    <string name="enter_category">Enter category</string>
+    <string name="update_category">Update Category</string>
+    <string name="please_add_task">Please add task</string>
+    <string name="please_add_title">Please add title</string>
+    <string name="add">ADD</string>
+    <string name="cancel" tools:ignore="ButtonCase">CANCEL</string>
+    <string name="please_enter_category_to_add">Please enter category to add</string>
+    <string name="update">UPDATE</string>
+    <string name="please_edit_category_to_update">Please edit category to update</string>
+    <string name="delete">DELETE</string>
+    <string name="please_enter_something_to_update">Please enter something to update</string>
+    <string name="no_category_to_display">No category to display</string>
+    <string name="no_task_to_show">No task to show</string>
+    <string name="no_history_to_show">No History to show</string>
+    <string name="do_you_want_to_save_this_task">Do you want to save this task?</string>
+    <string name="save_task">Save task!</string>
+    <string name="save">SAVE</string>
+    <string name="nav_header_title">Crowdin SDK Example project</string>
+    <string name="nav_header_sub_title"><a href="https://github.com/crowdin/mobile-sdk-android">Repository: mobile-sdk-android</a></string>
+    <string name="date">Date</string>
+    <string name="task">Task</string>
+    <string name="time">Time</string>
+    <string name="title">Title</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="no_category_to_added">No category added</string>
+    <string name="dialog_delete_category_title">Delete Category</string>
+    <string name="app_name">Crowdin1</string>
+    <string name="dashboard">Dashboard2</string>
+    <string name="category">Category3</string>
+    <string name="buy or sell bitcoin1">buy or sell bitcoin</string>
+    <string name="in one click">in one click</string>
+    <string name="id2">string1</string>
+    <string name="general">general</string>
+    <string name="the heart of hell">The Heart of Hell</string>
+    <string name="new">New</string>
+    <string name="most viewed">most Viewed</string>
+    <string name="account">Notification</string>
+    <string name="my cart">language</string>
+    <string name="my cart1">Help</string>
+    <string name="my cart2">sign out</string>
+    <string name="reading statistics">account</string>
+    <string name="account1">purchases</string>
+    <string name="account2">my  cart</string>
+    <string name="Page::Strichka" comment="strichka">strichka</string>
+    <string name="Page_1:Mobile_number_3:What_is_your_mobile" comment="what_is_your_mobile_number">What is your mobile number?</string>
+    <string name="Page_1:Onboarding_1:If_you_delete_this_shared_list_other_people_will_no_longer_have_access_to_it_and_it_will_be_deleted_from_all_of_their_devices" comment="if_you_delete_this_shared_list_other_people_wi">If you delete this shared list, other people will no longer have access to it and it will be deleted from all of their devices. editer version</string>
+    <string name="Page_1:Onboarding_2:Str_669" comment="string_have_translation">String, have translation</string>
+    <string name="Page_1:Onboarding_4:Module_0_1_1_text_2" comment="every_email_shouldhnbi">Every email shouldhnbi</string>
+    <string name="Page_1:Create_passcode:Delete" comment="delete_l">Delete %@?[L]</string>
+    <string name="Page_1:Create_passcode:Create_passcode" comment="create_passcode">Create passcode</string>
+    <string name="Page_1:Create_passcode:Continue" comment="continue">Continue</string>
+</resources>
